@@ -15,8 +15,8 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/pypa/sampleproject"
-"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
+"Homepage" = "https://github.com/MouseAndKeyboard/compartmental"
+"Bug Tracker" = "https://github.com/MouseAndKeyboard/compartmental/issues"
 
 [build-system]
 requires = ["hatchling"]
